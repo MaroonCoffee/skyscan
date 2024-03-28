@@ -23,3 +23,5 @@ from the footage.
     ```sh
     python skyscan.py input.mp4 -o output.mp4
     ```
+
+To exit the program early, press 'q' to terminate the program while it is running.
