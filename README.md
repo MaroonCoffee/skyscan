@@ -19,6 +19,7 @@ from the footage.
   ```
 
 # Usage
+* command line
     ```sh
     python skyscan.py input.mp4 -o output.mp4
     ```
