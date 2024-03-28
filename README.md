@@ -15,7 +15,7 @@ from the footage.
 # Prerequisites
 * python
   ```sh
-  pip install -r requirements. txt
+  pip install -r requirements.txt
   ```
 
 # Usage
